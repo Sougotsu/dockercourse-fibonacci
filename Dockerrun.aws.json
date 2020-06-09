@@ -1,6 +1,6 @@
 {
     "AWSEBDockerrunVersion": 2,
-    "containerADefinitions": [
+    "containerDefinitions": [
         {
             "name": "client",
             "image": "sougotsu/fibonacci-client",
